@@ -16,6 +16,12 @@ accessModel:
 image: https://avatars.githubusercontent.com/u/api-evangelist
 tags:
   - Banking
+  - Financial-Services
+  - Consumer Banking
+  - Credit Cards
+  - Commercial Banking
+tags_raw:
+  - Banking
   - Financial Services
   - Consumer Banking
   - Credit Cards
